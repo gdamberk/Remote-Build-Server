@@ -1,0 +1,14 @@
+06/12/2017 5:06:41 PM:Build Failed for TestDriver1.cs 
+
+
+06/12/2017 5:06:41 PM:
+
+ Error : Microsoft (R) Visual C# Compiler version 4.6.1055.0
+for Microsoft (R) .NET Framework 4.5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+CodeToTest2.cs(11,42): error CS1002: ; expected
+CodeToTest2.cs(14,13): error CS1519: Invalid token 'return' in class, struct, or interface member declaration
+CodeToTest2.cs(14,25): error CS1519: Invalid token ';' in class, struct, or interface member declaration
+CodeToTest2.cs(17,1): error CS1022: Type or namespace definition, or end-of-file expected
+
